@@ -1,1 +1,1 @@
-# MrConverter
+# MrConverter: конвертер валют.
